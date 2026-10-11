@@ -1,0 +1,12 @@
+
+job_id,title,company,location,skills,description,experience_required
+1,Machine Learning Engineer,TechNova,Bangalore,"Python, Machine Learning, Scikit-learn, Pandas, SQL","Build and evaluate machine learning models.",0
+2,Data Analyst,DataWorks,Remote,"Python, SQL, Excel, Power BI, Pandas","Analyze business data and create dashboards.",0
+3,Deep Learning Engineer,NeuralLabs,Hyderabad,"Python, PyTorch, TensorFlow, Deep Learning, Computer Vision","Develop neural networks and vision applications.",1
+4,Backend Developer,CodeBase,Pune,"Python, FastAPI, SQL, REST API, PostgreSQL","Develop backend services and database integrations.",0
+5,NLP Engineer,LanguageAI,Remote,"Python, NLP, Transformers, PyTorch, Machine Learning","Build text classification and semantic search systems.",1
+6,Frontend Developer,WebCraft,Remote,"JavaScript, React, Next.js, HTML, CSS","Build responsive web applications.",0
+7,Data Scientist,InsightAI,Bangalore,"Python, Statistics, Machine Learning, Pandas, SQL, Scikit-learn","Develop predictive models and statistical analyses.",1
+8,Computer Vision Engineer,VisionTech,Delhi,"Python, OpenCV, PyTorch, Deep Learning, Computer Vision","Build image recognition applications.",1
+9,Java Developer,EnterpriseSoft,Chennai,"Java, Spring Boot, SQL, REST API, Microservices","Develop enterprise backend applications.",1
+10,MLOps Engineer,CloudML,Remote,"Python, Docker, Kubernetes, MLflow, Machine Learning","Deploy and monitor machine learning pipelines.",1
